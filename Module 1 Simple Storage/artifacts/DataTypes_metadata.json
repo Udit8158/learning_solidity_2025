@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "n",
+				"outputs": [
+					{
+						"internalType": "bytes32",
+						"name": "",
+						"type": "bytes32"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Module 1 Simple Storage/DataTypes.sol": "DataTypes"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Module 1 Simple Storage/DataTypes.sol": {
+			"keccak256": "0x0dc705eec525ecc57ca5fad7710f997bb690a5a6d39e61a7ee2ee4697a5a86d4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://5dc0d2c1fd15acdaf5208a87ed3bcd75def352258219f7e1c9d6fda121820531",
+				"dweb:/ipfs/Qmap2hhgXSGgHVjBV91SoKxVcNmrkpi8ABkTvZKLtcnmTG"
+			]
+		}
+	},
+	"version": 1
+}
