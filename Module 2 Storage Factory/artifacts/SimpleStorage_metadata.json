@@ -99,7 +99,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Module 1 Simple Storage/SimpleStorage.sol": "SimpleStorage"
+			"Module 2 Storage Factory/StorageFactory.sol": "SimpleStorage"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -113,12 +113,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Module 1 Simple Storage/SimpleStorage.sol": {
-			"keccak256": "0x241d652e04a1f7097216ce12de6679d4b248db003f6656cf763dbb9699eb9215",
+		"Module 2 Storage Factory/StorageFactory.sol": {
+			"keccak256": "0x23ecb97fb136ebcc324ce854a584f9bf61f8ea7e4e4ee6fc9f0b42519e030bc4",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b30e25dd9b7bc67bb595b6a95cf62bd7bde2b34492e4a3a1e2bc23ec2d0d93e2",
-				"dweb:/ipfs/QmfR12b644Joaq4sYVS11QB5TmFmCoFBxBF6JgEp2DDe3s"
+				"bzz-raw://c9ff744fa22f59f538c0f25518e1e30424245815d70e6b053feacab833ea9023",
+				"dweb:/ipfs/QmTTaVBw9nXcNQA3YAWQ9asTZJrGTvQ3YRqKpuppPk2U8d"
 			]
 		}
 	},
